@@ -1,0 +1,3 @@
+# MA-Machine-a-new-chip-design-for--better-performance
+This is an independent research of mine and I never got a chance to submit this in any journal due to my current research consuming all of my time so I decided to give it away on GitHub and make it open source of anyone is an experimental scientist or an enthusiast in experiments they can try this out and contribute to this research. Thank you! 
+This is an independent research of mine and I never got a chance to submit this in any journal due to my current research consuming all of my time so I decided to give it away on GitHub and make it open source of anyone is an experimental scientist or an enthusiast in experiments they can try this out and contribute to this research. Thank you!
